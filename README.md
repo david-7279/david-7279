@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm David Vieira
 
-<!--
-**david-7279/david-7279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student · Frontend Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here you'll find my projects, ideas, and a bit about my journey in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+Passionate about crafting seamless digital experiences. I build modern, accessible, and visually engaging web applications, blending design and development.
+
+- 🎓 Software Engineering @ [IPB](https://ipb.pt/pt)
+- 💡 Always curious and eager to learn new things
+- 🧑‍💻 Enjoy collaborating on open source and side projects
+- ☕ Coffee enthusiast & music lover
+
+---
+
+### 🛠️ Tech Stack
+
+Here are some of the technologies and tools I enjoy working with:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,py,java,git,github,figma,notion" height="30" alt="Tech stack icons" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+I'm always open to connecting with fellow developers, collaborators, or anyone interested in tech. Feel free to reach out!
+
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:davidvieira7279@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/david7279/)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://david7279.vercel.app/)
