@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find my projects, ideas, and a bit abo
 
 Passionate about crafting seamless digital experiences. I build modern, accessible, and visually engaging web applications, blending design and development.
 
-- 🎓 Software Engineering @ [IPB](https://ipb.pt/pt)
+- 🎓 Software Engineering @ [IPP](https://www.isep.ipp.pt/)
 - 💡 Always curious and eager to learn new things
 - 🧑‍💻 Enjoy collaborating on open source and side projects
 - ☕ Coffee enthusiast & music lover
