@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Vieira
 
-**Software Engineering Student · Frontend Developer**
+**Software Engineering Student · Full Stack Developer**
 
 Welcome to my GitHub profile! Here you'll find my projects, ideas, and a bit about my journey in tech.
 
